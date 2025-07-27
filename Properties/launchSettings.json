@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CS2_AUTO_HIGHLIGHTS": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
