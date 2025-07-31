@@ -1,7 +1,3 @@
-﻿// To run this code, you'll need to add the following NuGet packages:
-// dotnet add package DemoFile.Game.Cs
-// dotnet add package obs-websocket-dotnet
-
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -17,7 +13,6 @@ using OBSWebsocketDotNet.Types;
 
 public class HighlightReel
 {
-    // A simple class to store information about a highlight
     public class Highlight
     {
         public string PlayerName { get; set; }
