@@ -7,7 +7,7 @@ A C# tool that automates the extraction and recording of highlight moments from 
 
 ##  Features
 
--  Parse `.dem` files from CS2 to identify high-kill streaks.
+-  Parse `.dem` files from CS2 to identify kill streaks.
 -  Automatically detect highlights with customizable kill thresholds.
 -  Launch CS2 with demo playback and cinematic settings.
 -  Use OBS Studio to record each highlight segment.
