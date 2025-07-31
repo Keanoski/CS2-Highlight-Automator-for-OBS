@@ -28,3 +28,27 @@ Install the required packages:
 ```bash
 dotnet add package DemoFile.Game.Cs
 dotnet add package obs-websocket-dotnet
+```
+
+## How It Works
+
+### ➤ Provide Demo File
+Enter the full path to your `.dem` file from CS2.
+
+### ➤ Highlight Detection
+The tool parses the demo for player kill streaks (≥ 5 kills by default).
+
+### ➤ OBS Connection
+Prompts you to enter OBS WebSocket IP, port, and password.  
+Connects to OBS Studio to control recording.
+
+### ➤ CS2 Setup Script
+You’ll be asked for the path to your `cs2.exe`.  
+A cinematic configuration script (`setup_script.cfg`) is auto-generated.
+
+### ➤ Playback & Recording
+CS2 is launched with the demo.  
+OBS is triggered to start/stop recording around each detected highlight.
+
+### ➤ Output
+Videos are saved in your OBS output folder.
