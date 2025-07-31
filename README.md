@@ -11,7 +11,7 @@ A C# tool that automates the extraction and recording of highlight moments from 
 -  Automatically detect highlights with customizable kill thresholds.
 -  Launch CS2 with demo playback and cinematic settings.
 -  Use OBS Studio to record each highlight segment.
--  Auto-generate config scripts to streamline visual setup in CS2.
+-  Auto-generate config scripts to go to parsed start and end ticks.
 
 ---
 
