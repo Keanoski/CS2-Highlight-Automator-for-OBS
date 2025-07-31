@@ -52,3 +52,20 @@ OBS is triggered to start/stop recording around each detected highlight.
 
 ### ➤ Output
 Videos are saved in your OBS output folder.
+
+## 📂 Output Example
+
+Sample console output:
+```bash
+
+--- CS2 Highlight Automator for OBS ---
+
+Found the following highlights:
+- Player1 got 6 kills. (Ticks: 12345 -> 13000)
+
+OBS recording started...
+OBS recording stopped...
+
+--- All highlights recorded! ---
+
+```
