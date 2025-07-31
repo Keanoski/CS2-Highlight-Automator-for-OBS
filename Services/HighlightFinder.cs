@@ -23,7 +23,7 @@ namespace HighlightReel.Services
                     if (!kills.ContainsKey(name))
                         kills[name] = new List<int>();
 
-                    kills[name].Add(demo.CurrentDemoTick ?? 0);
+                    kills[name].Add(demo.CurrentDemoTick.Value);
                 }
             };
 
