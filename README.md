@@ -62,7 +62,7 @@ Sample console output:
 --- CS2 Highlight Automator for OBS ---
 
 Found the following highlights:
-- Player1 got 6 kills. (Ticks: 12345 -> 13000)
+- Player1 got 3 kills. (Ticks: 12345 -> 13000)
 
 OBS recording started...
 OBS recording stopped...
