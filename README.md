@@ -1,7 +1,7 @@
 # --WORK IN PROGRESS--
 # CS2 Highlight Automator for OBS
 
-A C# tool that automates the extraction and recording of highlight moments from CS2 demo files using **OBS Studio** via [`obs-websocket`](https://github.com/obsproject/obs-websocket). It detects kill streaks, launches CS2 for playback, and coordinates OBS to record cinematic highlight reels.
+A CLI tool that automates the extraction and recording of highlight moments from CS2 demo files using **OBS Studio** via [`obs-websocket`](https://github.com/obsproject/obs-websocket). It detects kill streaks, launches CS2 for playback, and coordinates OBS to record cinematic highlight reels.
 
 ---
 
